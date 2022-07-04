@@ -1,1 +1,1 @@
-ls -a -l
+Lasten der Vergangenheit: bewältigt
